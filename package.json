@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "common": "pnpm --filter common"
+    "common": "pnpm --filter common",
+    "app": "pnpm --filter web-app"
   },
   "keywords": [],
   "author": "",
