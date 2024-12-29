@@ -1,8 +1,11 @@
 {
   "private": true,
   "name": "shared-ui",
+  "main": "dist/index.js",
   "description": "Shared UI components",
-  "scripts": {},
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
