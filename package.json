@@ -6,7 +6,8 @@
   "scripts": {
     "common": "pnpm --filter common",
     "app": "pnpm --filter web-app",
-    "remix-app": "pnpm --filter my-remix-app"
+    "remix-app": "pnpm --filter my-remix-app",
+    "shared-ui": "pnpm --filter shared-ui"
   },
   "keywords": [],
   "author": "",
